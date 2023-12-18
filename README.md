@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Estudante de Tecnologia em transição de carreira. <br>📚 Full Stack (Kenzie Academy)<br>💬 Me mande uma mensagem 85 982168756<br>
+👨‍💻 Estudante de Tecnologia em transição de carreira. <br>📚 Full Stack (Kenzie Academy)<br>💬 Me mande uma mensagem 85 985847007<br>
 https://img.shields.io/badge/Youtube-FFFFFF.svg?logo=youtube&logoColor=red
 
 ## 🌐 Socials:
