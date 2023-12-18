@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 Estudante de Tecnologia em transição de carreira. <br>📚 Full Stack (Kenzie Academy)<br>💬 Me mande uma mensagem 85 985847007<br>
-https://img.shields.io/badge/Youtube-FFFFFF.svg?logo=youtube&logoColor=red
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/henriqueribeiro77/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/henriqueribeirodev/)  [![Youtube](https://img.shields.io/badge/Youtube-FFFFFF.svg?logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCNzgigLkeAg6DOP9wNptpGQ) 
