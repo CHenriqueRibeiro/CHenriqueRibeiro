@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Estudante de Tecnologia em transição de carreira. <br>📚 Full Stack (Kenzie Academy)<br>💬 Me mande uma mensagem 85 985847007<br>
+<br>📚 Developer Full Stack || Mobile <br>💬 Me mande uma mensagem 85 985847007<br>
 
 
 ## 🌐 Socials:
